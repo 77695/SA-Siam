@@ -6,6 +6,8 @@ SA-Siam is a real-time tracker with high performance. Here is the tensorflow imp
   - [CVF](http://openaccess.thecvf.com/content_cvpr_2018/papers/He_A_Twofold_Siamese_CVPR_2018_paper.pdf)
 - Poster:
   - [Baidu Yun](https://pan.baidu.com/s/1GlvH0tQCiZ3GEJYfq24XUw)[f6ik]
+- Supplementary Material:
+  - [Baidu Yun](https://pan.baidu.com/s/1_O48QpMZjyphJzwAhO9WCg)[cz5g]
 - Demo:
   - [YouTube](https://youtu.be/b-EqbESSeFk) &#124; [YOUKU](https://v.youku.com/v_show/id_XMzcwMjM0ODkwMA==.html)
 - Results file: 
