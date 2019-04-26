@@ -1,5 +1,7 @@
 ## A Twofold Siamese Network for Real-Time Object Tracking
 
+:star: News [2019-04-26]: Training and testing codes of SA-Siam are available in https://github.com/Microsoft/SA-Siam :star:
+
 SA-Siam is a real-time tracker with high performance. Here is the tensorflow implementation of this tracker. You can find raw results file of 100 sequences in OTB in this page. The code will be released soon.
 
 - Paper:
